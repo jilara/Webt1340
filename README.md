@@ -4,5 +4,5 @@ CITC 1340 Project Page
 
 <li><a href="Project1/campsiteIcons.ai"> Project 1 - icons </a></li>
 <li><a href="Project1/stationery.ai"> Project 3 - identity package </a></li>
-
+<li><a href="Project1/aos-brochure.ai"> Project 5 - brochure </a></li>
 <ul>

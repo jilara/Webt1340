@@ -1,0 +1,61 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: aos-brochure.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 11.875 in x 9 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+ATC Onyx Bold (OTF)
+ATC Onyx Italic (OTF)
+ATC Onyx Normal (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\jimmy\Downloads\Science_AI22_RF (2)\Science_AI22_RF\Science\aos-logo.ai
+Type: PDF
+
+C:\Users\jimmy\Downloads\Science_AI22_RF (2)\Science_AI22_RF\Science\aos-logo.ai
+Type: PDF
+
+C:\Users\jimmy\Downloads\Science_AI22_RF (2)\Science_AI22_RF\Science\einstein-light.jpg
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 39435K, 3638 by 2775 pixels
+Dimensions: 873 by 665.908 points 
+Resolution: 300.041 by 300.041 pixels per inch
+
+
+C:\Users\jimmy\Downloads\Science_AI22_RF (2)\Science_AI22_RF\Science\cac-logo.ai
+Type: PDF
+
+C:\Users\jimmy\Downloads\Science_AI22_RF (2)\Science_AI22_RF\Science\aos-logo.ai
+Type: PDF
